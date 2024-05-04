@@ -566,6 +566,7 @@ class WeatherCard extends LitElement {
         width: 100%;
         margin: 0 auto;
         display: flex;
+        overflow-x: scroll;
       }
 
       .day {
